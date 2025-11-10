@@ -1,0 +1,169 @@
+{
+  "personal": {
+    "name": "张子墨",
+    "title": "全栈工程师 | 赛博朋克爱好者",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400&q=80",
+    "email": "zhangzimo@cyberdev.io",
+    "phone": "+86 138-0013-8000",
+    "location": "中国 · 深圳",
+    "github": "https://github.com/zhangzimo",
+    "linkedin": "https://linkedin.com/in/zhangzimo",
+    "website": "https://cyberdev.io",
+    "bio": "专注于Web3.0与赛博朋克美学的全栈开发者，5年+开发经验，精通React生态与Node.js后端技术。热衷于探索前沿技术，将未来主义设计融入现代Web应用。擅长高性能前端架构设计、复杂动画特效实现与跨平台应用开发。",
+    "glitchText": "Ż̴̢̛̳̖̺̘̰̣̗̼̜̲̪̮̈́̓̈́͆̽̋̈́̏̿̐h̷̢̡̢̛̖̱̱̼̖̯̙̭̝̄̆̈́̓̏̆̀͘͝͠ͅa̸̧̨̮̜̖̰̲͈̝͍̦̪̾̄̄͒̎̂̽̀̓̕͝n̶̢̛̖̙̜̦͙̲̱̺̈́̈́̏̿̌͘͠g̴̢̢̛̳̺̜͖̭̭̬̦̔̓̏̏̄̌̕͜"
+  },
+  "education": [
+    {
+      "id": "edu-001",
+      "school": "深圳大学",
+      "degree": "计算机科学与技术 · 本科",
+      "duration": "2015.09 - 2019.06",
+      "gpa": "3.8/4.0",
+      "honors": [
+        "国家奖学金（2017-2018学年）",
+        "ACM-ICPC区域赛银牌",
+        "优秀毕业生"
+      ],
+      "courses": [
+        "数据结构与算法",
+        "计算机图形学",
+        "Web开发技术",
+        "人工智能基础"
+      ],
+      "logo": "https://images.unsplash.com/photo-1562774053-701939374585?w=200&q=80"
+    },
+    {
+      "id": "edu-002",
+      "school": "在线认证课程",
+      "degree": "全栈Web开发专项课程",
+      "duration": "2019.07 - 2019.12",
+      "platform": "Coursera & Udacity",
+      "certificates": [
+        "React高级开发认证",
+        "Node.js全栈工程师认证",
+        "Web性能优化专家认证"
+      ],
+      "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=200&q=80"
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-001",
+      "company": "字节跳动",
+      "position": "高级前端工程师",
+      "duration": "2022.03 - 至今",
+      "location": "深圳",
+      "type": "全职",
+      "description": "负责企业级SaaS产品前端架构设计与核心功能开发，主导多个ToB项目的技术选型与性能优化工作。",
+      "responsibilities": [
+        "主导企业级低代码平台前端架构设计，支持50+企业客户",
+        "优化核心组件渲染性能，首屏加载时间缩短40%",
+        "建立前端工程化体系，包括自动化测试、CI/CD流程",
+        "指导3名初级工程师，定期进行技术分享与Code Review",
+        "参与开源项目贡献，累计PR合并20+次"
+      ],
+      "achievements": [
+        "获得2023年度技术创新奖",
+        "主导的项目获得客户满意度评分9.5/10",
+        "技术博客累计阅读量超10万"
+      ],
+      "tech": ["React 18", "TypeScript", "Webpack", "Node.js", "MongoDB"],
+      "logo": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=200&q=80"
+    },
+    {
+      "id": "exp-002",
+      "company": "腾讯科技",
+      "position": "前端工程师",
+      "duration": "2020.07 - 2022.02",
+      "location": "深圳",
+      "type": "全职",
+      "description": "参与微信生态小程序开发与ToC产品前端研发，负责复杂交互组件的设计与实现。",
+      "responsibilities": [
+        "开发微信小程序电商平台，DAU达50万+",
+        "设计并实现可复用的UI组件库，提升团队开发效率30%",
+        "参与产品需求评审，提供技术可行性分析",
+        "优化小程序性能，包体积减少25%，启动速度提升35%",
+        "协助后端团队进行API设计与联调"
+      ],
+      "achievements": [
+        "主导开发的电商小程序GMV突破1000万",
+        "获得2021年度优秀员工称号",
+        "组件库在公司内部推广使用，服务10+项目"
+      ],
+      "tech": ["微信小程序", "Vue 3", "Taro", "SCSS", "RESTful API"],
+      "logo": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=200&q=80"
+    },
+    {
+      "id": "exp-003",
+      "company": "创业公司 - CyberLabs",
+      "position": "全栈开发工程师",
+      "duration": "2019.07 - 2020.06",
+      "location": "深圳",
+      "type": "全职",
+      "description": "作为核心成员参与Web3.0项目开发，负责前后端全栈开发与区块链技术应用。",
+      "responsibilities": [
+        "独立完成DApp前端开发，集成MetaMask钱包与智能合约",
+        "设计并实现RESTful API，支持高并发访问",
+        "参与智能合约开发与测试，确保代码安全性",
+        "搭建项目基础架构，包括Docker容器化部署",
+        "编写技术文档与API说明，维护项目Wiki"
+      ],
+      "achievements": [
+        "项目成功获得天使轮融资200万美元",
+        "平台用户量突破2万，资产管理规模达500万美元",
+        "智能合约通过CertiK安全审计"
+      ],
+      "tech": ["React", "Node.js", "Solidity", "Ethers.js", "IPFS", "PostgreSQL"],
+      "logo": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=200&q=80"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2023.05",
+      "credentialId": "AWS-CSA-2023-05-12345"
+    },
+    {
+      "name": "Google Mobile Web Specialist",
+      "issuer": "Google",
+      "date": "2022.11",
+      "credentialId": "GMWS-2022-67890"
+    },
+    {
+      "name": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "date": "2021.08",
+      "credentialId": "PSM-I-2021-54321"
+    }
+  ],
+  "languages": [
+    {
+      "name": "中文",
+      "level": "母语"
+    },
+    {
+      "name": "英语",
+      "level": "流利（CET-6 580分）"
+    },
+    {
+      "name": "日语",
+      "level": "基础（N3水平）"
+    }
+  ],
+  "interests": [
+    "开源贡献",
+    "赛博朋克文化",
+    "科幻小说",
+    "电子音乐",
+    "3D建模",
+    "区块链技术"
+  ],
+  "summary": {
+    "yearsOfExperience": 5,
+    "projectsCompleted": 30,
+    "linesOfCode": "500K+",
+    "githubStars": 1200,
+    "techArticles": 45
+  }
+}

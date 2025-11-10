@@ -1,0 +1,102 @@
+[
+  {
+    "name": "React",
+    "level": 95,
+    "category": "前端框架"
+  },
+  {
+    "name": "Vue.js",
+    "level": 88,
+    "category": "前端框架"
+  },
+  {
+    "name": "JavaScript",
+    "level": 92,
+    "category": "编程语言"
+  },
+  {
+    "name": "TypeScript",
+    "level": 85,
+    "category": "编程语言"
+  },
+  {
+    "name": "Node.js",
+    "level": 80,
+    "category": "后端技术"
+  },
+  {
+    "name": "Python",
+    "level": 75,
+    "category": "编程语言"
+  },
+  {
+    "name": "CSS3",
+    "level": 90,
+    "category": "前端技术"
+  },
+  {
+    "name": "Tailwind CSS",
+    "level": 87,
+    "category": "UI框架"
+  },
+  {
+    "name": "GSAP",
+    "level": 78,
+    "category": "动画库"
+  },
+  {
+    "name": "Git",
+    "level": 93,
+    "category": "版本控制"
+  },
+  {
+    "name": "Docker",
+    "level": 72,
+    "category": "DevOps"
+  },
+  {
+    "name": "MongoDB",
+    "level": 70,
+    "category": "数据库"
+  },
+  {
+    "name": "PostgreSQL",
+    "level": 68,
+    "category": "数据库"
+  },
+  {
+    "name": "WebGL",
+    "level": 65,
+    "category": "图形技术"
+  },
+  {
+    "name": "Three.js",
+    "level": 73,
+    "category": "3D库"
+  },
+  {
+    "name": "RESTful API",
+    "level": 89,
+    "category": "后端技术"
+  },
+  {
+    "name": "GraphQL",
+    "level": 76,
+    "category": "后端技术"
+  },
+  {
+    "name": "Redux",
+    "level": 84,
+    "category": "状态管理"
+  },
+  {
+    "name": "Webpack",
+    "level": 81,
+    "category": "构建工具"
+  },
+  {
+    "name": "Vite",
+    "level": 86,
+    "category": "构建工具"
+  }
+]

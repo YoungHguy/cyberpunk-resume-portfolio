@@ -1,0 +1,200 @@
+[
+  {
+    "id": "project-001",
+    "title": "赛博朋克作品集系统",
+    "description": "基于React 18构建的未来主义风格作品展示平台，融合RGB分离特效与动态数据可视化",
+    "category": "全栈开发",
+    "tech": ["React", "Tailwind CSS", "GSAP", "Node.js"],
+    "image": "https://hpi-hub.tos-cn-beijing.volces.com/static/gif/18-55-07-987_512.gif",
+    "duration": "2024.08 - 2024.10",
+    "role": "全栈工程师",
+    "details": {
+      "overview": "打造沉浸式赛博朋克体验的个人作品展示网站，采用前沿Web技术实现RGB分离、扫描线等视觉特效，支持动态数据加载与响应式布局。",
+      "challenges": [
+        "实现复杂的CSS动画与GPU加速优化",
+        "设计符合WCAG标准的无障碍交互体验",
+        "构建高性能的组件化架构"
+      ],
+      "achievements": [
+        "页面加载速度提升60%，通过代码分割与CDN优化实现",
+        "设计了20+可复用的赛博朋克UI组件库",
+        "实现了完整的加载状态管理与超时机制"
+      ],
+      "responsibilities": [
+        "架构设计与核心模块开发",
+        "赛博朋克视觉特效实现",
+        "性能优化与测试部署"
+      ]
+    },
+    "links": {
+      "demo": "#",
+      "github": "#"
+    },
+    "featured": true
+  },
+  {
+    "id": "project-002",
+    "title": "智能数据监控平台",
+    "description": "实时监控系统，集成WebSocket推送与Three.js 3D可视化，支持千万级数据处理",
+    "category": "数据可视化",
+    "tech": ["Vue 3", "TypeScript", "Three.js", "WebSocket", "Echarts"],
+    "image": "https://hpi-hub.tos-cn-beijing.volces.com/static/batch_14/1757331057386-1505.jpg",
+    "duration": "2024.03 - 2024.07",
+    "role": "前端负责人",
+    "details": {
+      "overview": "为企业级客户打造的智能监控平台，实现实时数据流处理与3D空间可视化展示，支持多维度数据分析与告警系统。",
+      "challenges": [
+        "处理高频实时数据流的性能瓶颈",
+        "复杂的3D场景渲染与交互设计",
+        "大屏适配与多分辨率兼容"
+      ],
+      "achievements": [
+        "支持10万+节点的实时监控与渲染",
+        "将数据刷新延迟降低至50ms以内",
+        "获得客户技术创新奖与业界认可"
+      ],
+      "responsibilities": [
+        "前端架构设计与技术选型",
+        "3D可视化引擎开发",
+        "团队协作与代码审查"
+      ]
+    },
+    "links": {
+      "demo": "#",
+      "github": "#"
+    },
+    "featured": true
+  },
+  {
+    "id": "project-003",
+    "title": "区块链资产管理系统",
+    "description": "Web3应用，整合MetaMask钱包与智能合约交互，实现去中心化资产管理",
+    "category": "区块链",
+    "tech": ["React", "Ethers.js", "Solidity", "IPFS", "Redux"],
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&q=80",
+    "duration": "2023.11 - 2024.02",
+    "role": "前端开发",
+    "details": {
+      "overview": "构建去中心化金融（DeFi）应用，支持多链资产管理、智能合约部署与NFT交易功能，采用IPFS存储确保数据安全。",
+      "challenges": [
+        "Web3钱包集成与多链兼容性",
+        "智能合约Gas优化",
+        "用户私钥安全管理"
+      ],
+      "achievements": [
+        "管理资产总额突破500万美元",
+        "智能合约通过专业安全审计",
+        "用户量增长300%，月活跃用户超2万"
+      ],
+      "responsibilities": [
+        "前端DApp开发与钱包集成",
+        "智能合约交互逻辑实现",
+        "用户体验优化"
+      ]
+    },
+    "links": {
+      "demo": "#",
+      "github": "#"
+    },
+    "featured": false
+  },
+  {
+    "id": "project-004",
+    "title": "AI驱动内容生成平台",
+    "description": "基于GPT-4与Stable Diffusion的创意工具，支持文本生成、图像合成与视频编辑",
+    "category": "人工智能",
+    "tech": ["Next.js", "Python", "FastAPI", "TensorFlow", "Redis"],
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "duration": "2023.06 - 2023.10",
+    "role": "全栈工程师",
+    "details": {
+      "overview": "开发AI内容创作平台，整合多个大模型API，提供文本改写、图像生成、视频剪辑等一站式创意服务。",
+      "challenges": [
+        "大模型API的稳定性与成本控制",
+        "高并发场景下的队列管理",
+        "生成内容的版权合规性"
+      ],
+      "achievements": [
+        "日处理请求量达10万+",
+        "生成内容质量评分达92%",
+        "成功获得天使轮融资"
+      ],
+      "responsibilities": [
+        "后端API设计与模型集成",
+        "前端交互流程优化",
+        "系统性能监控与优化"
+      ]
+    },
+    "links": {
+      "demo": "#",
+      "github": "#"
+    },
+    "featured": false
+  },
+  {
+    "id": "project-005",
+    "title": "企业级低代码开发平台",
+    "description": "拖拽式可视化开发工具，支持表单设计、流程编排与API编排，提升开发效率10倍",
+    "category": "企业应用",
+    "tech": ["React", "Monaco Editor", "Ant Design", "Node.js", "PostgreSQL"],
+    "image": "https://hpi-hub.tos-cn-beijing.volces.com/static/batch_16/1757530609835-6696.png",
+    "duration": "2023.01 - 2023.05",
+    "role": "核心开发者",
+    "details": {
+      "overview": "打造企业级低代码平台，提供可视化界面设计、业务流程编排、数据模型配置等功能，大幅降低开发门槛。",
+      "challenges": [
+        "复杂的拖拽交互与实时预览",
+        "动态表单渲染与验证引擎",
+        "多租户数据隔离与权限管理"
+      ],
+      "achievements": [
+        "服务50+企业客户，覆盖金融、电商等行业",
+        "平均开发效率提升10倍",
+        "平台稳定性达99.9%"
+      ],
+      "responsibilities": [
+        "可视化编辑器核心功能开发",
+        "表单引擎与验证系统设计",
+        "性能优化与用户体验改进"
+      ]
+    },
+    "links": {
+      "demo": "#",
+      "github": "#"
+    },
+    "featured": false
+  },
+  {
+    "id": "project-006",
+    "title": "社交电商小程序",
+    "description": "微信生态电商解决方案，整合直播带货、社群裂变与智能推荐系统",
+    "category": "移动应用",
+    "tech": ["微信小程序", "Taro", "React", "Spring Boot", "MySQL"],
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
+    "duration": "2022.08 - 2022.12",
+    "role": "前端开发",
+    "details": {
+      "overview": "开发社交电商小程序，融合直播、拼团、分销等玩法，通过算法推荐提升转化率，构建完整的私域流量闭环。",
+      "challenges": [
+        "小程序性能优化与包体积控制",
+        "复杂的分销体系与佣金结算",
+        "直播功能的稳定性保障"
+      ],
+      "achievements": [
+        "上线3个月GMV突破1000万",
+        "用户留存率达65%，行业领先",
+        "获得最佳创新应用奖"
+      ],
+      "responsibilities": [
+        "小程序前端架构搭建",
+        "直播与社交功能开发",
+        "性能监控与用户体验优化"
+      ]
+    },
+    "links": {
+      "demo": "#",
+      "github": "#"
+    },
+    "featured": false
+  }
+]
